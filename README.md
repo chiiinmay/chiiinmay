@@ -1,4 +1,13 @@
 ## Hi there 👋
+
+![](https://komarev.com/ghpvc/?username=chiiinmay&label=Profile+Views&color=0e75b6&style=flat)
+# 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nagchinmaykapini)
+
+[![Substack](https://img.shields.io/badge/Substack-Read-orange?style=for-the-badge&logo=substack)](https://substack.com/@chiiinmay)
+
+![](https://komarev.com/ghpvc/?username=chiiinmay&label=Profile+Views&color=0e75b6&style=flat)
 # 👨‍💻 About Me
 
 - 🎓 2nd Year BE Student at DSATM
@@ -17,8 +26,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chiiinmay&layout=compact&theme=tokyonight&cache_seconds=1800)
 
-#Profile visit:
-![](https://komarev.com/ghpvc/?username=chiiinmay&label=Profile+Views&color=0e75b6&style=flat)
+
 # 🏆 GitHub Achievements
 
 ![](https://github-profile-trophy.vercel.app/?username=chiiinmay&theme=tokyonight&no-frame=true&margin-w=10)
