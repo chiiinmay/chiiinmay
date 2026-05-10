@@ -11,7 +11,6 @@
 - Research intern @ IIT Ropar
 - Research intern @ 1MBy1M
 # 📊 GitHub Stats
-# 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=chiiinmay&show_icons=true&theme=tokyonight" />
