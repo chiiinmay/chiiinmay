@@ -1,6 +1,18 @@
 ## Hi there 👋
-![Stats](https://github-readme-stats.vercel.app/api?username=chiiinmay&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chiiinmay&layout=compact)
+# 👨‍💻 About Me
+
+- 🎓 2nd Year BE Student at DSATM
+- 🧠 Pursuing IIT Ropar Major in AI Program
+- ☁️ AWS AI-ML Scholar
+- 🚀 Building AI + Software Projects
+- 🔬 Interested in AI, ML, Software Engineering & Research
+- 📚 Author of *Python Made Simpler*
+- 🌱 Currently learning Full Stack Development & Open Source
+- Research intern @ IIT Ropar
+- Research intern @ 1MBy1M
+![Stats](https://github-readme-stats.vercel.app/api?username=chiiinmay&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chiiinmay&layout=compact&theme=tokyonight)
 # 🛠️ Tech Stack
 
 <p align="left">
