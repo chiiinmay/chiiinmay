@@ -9,7 +9,7 @@
 ![](https://komarev.com/ghpvc/?username=chiiinmay&label=PROFILE+VIEWS&color=brightgreen&style=for-the-badge)
 # 👨‍💻 About Me
 
-- 🎓 2nd Year BE Student at DSATM | IIT Ropar Major in AI P
+- 🎓 2nd Year BE Student at DSATM | IIT Ropar Major in AI 
 - ☁️ AWS AI-ML Scholar
 - 🚀 Building AI + Software Projects
 - 🔬 Interested in AI, ML, Software Engineering & Research
