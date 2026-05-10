@@ -12,11 +12,9 @@
 - Research intern @ 1MBy1M
 # 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chiiinmay&show_icons=true&theme=tokyonight" />
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=chiiinmay&show_icons=true&theme=radical)
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chiiinmay&layout=compact&theme=tokyonight" />
-</p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chiiinmay&layout=compact&theme=radical)
 # 🛠️ Tech Stack
 
 <p align="left">
