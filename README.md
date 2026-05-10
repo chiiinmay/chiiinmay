@@ -10,7 +10,7 @@
 - 🎓 2nd Year BE Student at DSATM | IIT Ropar Major in AI 
 - ☁️ AWS AI-ML Scholar
 - 🚀 Building AI + Software Projects
-- 🔬 Interested in AI, ML, Software Engineering & Research
+- 🔬 Strong Interest in AI, ML, Software Engineering & Research
 - 📚 Author of *Python Made Simpler*
 - Research intern @ IIT Ropar
 - Research intern @ 1MBy1M
