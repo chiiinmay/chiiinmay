@@ -45,6 +45,18 @@
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50"/>
 </p>
+
+# 📊 My GitHub Analytics
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chiiinmay&theme=github_dark)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=chiiinmay&theme=github_dark)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=chiiinmay&theme=github_dark)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=chiiinmay&theme=github_dark)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=chiiinmay&theme=github_dark)
 <!--
 **chiiinmay/chiiinmay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
