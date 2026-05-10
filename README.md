@@ -10,9 +10,11 @@
 - 🌱 Currently learning Full Stack Development & Open Source
 - Research intern @ IIT Ropar
 - Research intern @ 1MBy1M
-![Stats](https://github-readme-stats.vercel.app/api?username=chiiinmay&show_icons=true&theme=tokyonight)
+# 📊 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chiiinmay&layout=compact&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chiiinmay&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chiiinmay&layout=compact&theme=tokyonight)
 # 🛠️ Tech Stack
 
 <p align="left">
