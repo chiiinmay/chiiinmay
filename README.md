@@ -15,7 +15,7 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=chiiinmay&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chiiinmay&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chiiinmay&layout=compact&theme=tokyonight&cache_seconds=1800)
 # 🛠️ Tech Stack
 
 <p align="left">
