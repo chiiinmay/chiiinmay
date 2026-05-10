@@ -17,6 +17,11 @@
 - Research intern @ IIT Ropar
 - Research intern @ 1MBy1M
 
+# 📚 Publications & Writing
+- ✍️ [Medium Articles](https://medium.com/@chinmaynataraj)
+- 📘 [Python Made Simpler — Leanpub Edition](https://leanpub.com/pythonmadesimpler)
+- 🛒 [Python Made Simpler — Amazon Kindle](https://www.amazon.com/Python-Made-Simpler-Book-ebook/dp/B0GTRFJWH8)
+
 # 📊 GitHub Stats
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=chiiinmay&theme=tokyonight)
