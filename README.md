@@ -26,9 +26,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chiiinmay&layout=compact&theme=tokyonight&cache_seconds=1800)
 
 
-# 🏆 GitHub Achievements
-
-![](https://github-profile-trophy.vercel.app/?username=chiiinmay&theme=tokyonight&no-frame=true&margin-w=10)
 # 🛠️ Tech Stack
 
 <p align="left">
