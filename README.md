@@ -2,9 +2,10 @@
 
 # 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nagchinmaykapini) | [![Substack](https://img.shields.io/badge/Substack-Read-orange?style=for-the-badge&logo=substack)](https://substack.com/@chiiinmay)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nagchinmaykapini)  [![Substack](https://img.shields.io/badge/Substack-Read-orange?style=for-the-badge&logo=substack)](https://substack.com/@chiiinmay) 
+![](https://komarev.com/ghpvc/?username=chiiinmay&label=PROFILE+VIEWS&color=brightgreen&style=for-the-badge)
 
-[![Substack](https://img.shields.io/badge/Substack-Read-orange?style=for-the-badge&logo=substack)](https://substack.com/@chiiinmay)
+
 
 ![](https://komarev.com/ghpvc/?username=chiiinmay&label=PROFILE+VIEWS&color=brightgreen&style=for-the-badge)
 # 👨‍💻 About Me
