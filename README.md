@@ -52,6 +52,7 @@
 | 🌌 Black Hole ML Experiments | Machine learning meets astrophysics through black hole classification and scientific experimentation | 🔗 In Progress |
 | 🩻 X-Ray Report Generator | AI-assisted chest X-ray report generation using Vision-Language Models and medical imaging workflows | 🔗 In Progress |
 | 📅 Constraint-Based Timetable Optimizer | CSP and backtracking-based timetable optimization with heuristic benchmarking | 🔗 In Progress |
+| Movie recommendation system using TMDB dataset | [🔗Live] (https://movie-recommendation-system-jgvtvy5ywekwqrpmenpbzs.streamlit.app) 
 # 📊 My GitHub Analytics
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chiiinmay&theme=github_dark)
