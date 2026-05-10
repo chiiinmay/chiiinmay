@@ -11,10 +11,13 @@
 - Research intern @ IIT Ropar
 - Research intern @ 1MBy1M
 # 📊 GitHub Stats
+# 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chiiinmay&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=chiiinmay&show_icons=true&theme=tokyonight" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chiiinmay&layout=compact&theme=tokyonight)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chiiinmay&layout=compact&theme=tokyonight" />
+</p>
 # 🛠️ Tech Stack
 
 <p align="left">
