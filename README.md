@@ -12,6 +12,7 @@
 - 🚀 Building AI + Software Projects
 - 🔬 Strong Interest in AI, ML, Software Engineering & Research
 - 📚 Author of *Python Made Simpler*
+- Ex-intern at Viswam.ai(Collaboration with meta and IIITH) and Ex-intern as volunteer as Teacher at Pehchaan(NGO)
 - Research intern @ IIT Ropar
 - Research intern @ 1MBy1M
 
