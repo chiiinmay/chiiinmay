@@ -7,8 +7,11 @@
 
 # 👨‍💻 About Me
 
-- 🎓 2nd Year BE Student at DSATM | IIT Ropar Major in AI 
+- 🎓 3nd Year BE Student at DSATM | IIT Ropar Major in AI 
 - ☁️ AWS AI-ML Scholar
+- GCI World'26 - University of Tokyo
+- Python4Physics-UC Berkley mentee and GMI Selected mentee
+- HVP Selected participant'25(Harvard Venture Programme)
 - 🚀 Building AI + Software Projects
 - 🔬 Strong Interest in AI, ML, Software Engineering & Research
 - 📚 Author of *Python Made Simpler*
