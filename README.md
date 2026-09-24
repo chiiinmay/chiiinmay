@@ -12,11 +12,11 @@
 - GCI World'26 - University of Tokyo
 - Python4Physics-UC Berkley mentee and GMI Selected mentee
 - HVP Selected participant'25(Harvard Venture Programme)
-- OS at Obliq.in
 - 🚀 Building AI + Software Projects
 - 🔬 Strong Interest in AI, ML, Software Engineering & Research
 - 📚 Author of *Python Made Simpler*
 - Ex-intern at Viswam.ai(Collaboration with meta and IIITH) and Ex-intern as volunteer as Teacher at Pehchaan(NGO)
+- - OS at Obliq.in currently
 
 
 # 📚 Publications & Writing
