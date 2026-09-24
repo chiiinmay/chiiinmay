@@ -17,8 +17,7 @@
 - 🔬 Strong Interest in AI, ML, Software Engineering & Research
 - 📚 Author of *Python Made Simpler*
 - Ex-intern at Viswam.ai(Collaboration with meta and IIITH) and Ex-intern as volunteer as Teacher at Pehchaan(NGO)
-- Research intern @ IIT Ropar (Vicharanashala lab)
-- Research intern @ 1MBy1M
+
 
 # 📚 Publications & Writing
 - ✍️ [Medium Articles](https://medium.com/@chinmaynataraj)
